@@ -1,6 +1,8 @@
 # Image_scrap
 🤖Image Scraping is fun with Selenium lib in Python, Image mining can be so easy and automated. if we can utilize the foundation of programming. Basically, I am using a bunch of simple code to gather data through a google search engine. At the same time, it also allows me to download all similar images from google images.
 I am using Jupyter Notebook, and python libs such as selenium, requests, pillow, time, and image. I am using google chrome, so chrome driver is essential for my search. 
+<br/>
+---
 [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/thapahemant/)](https://www.linkedin.com/in/thapahemant/)
 
 
