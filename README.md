@@ -1,6 +1,7 @@
 # Image_scrap
 🤖Image Scraping is fun with Selenium lib in Python, Image mining can be so easy and automated. if we can utilize the foundation of programming. Basically, I am using a bunch of simple code to gather data through a google search engine. At the same time, it also allows me to download all similar images from google images.
 I am using Jupyter Notebook, and python libs such as selenium, requests, pillow, time, and image. I am using google chrome, so chrome driver is essential for my search. 
+[![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/thapahemant/)](https://www.linkedin.com/in/thapahemant/)
 
 
 # Selenium
@@ -12,9 +13,6 @@ I am using Jupyter Notebook, and python libs such as selenium, requests, pillow,
 <img width="1000" align='center' src="https://raw.githubusercontent.com/harryworlds/image_scrap/main/code.png">
 
 
-[![Website](https://img.shields.io/website?label=click_here_to_test_code_Python&style=for-the-badge&url=https://replit.com/@harryworlds/WebScrappingpart1?v=1)](https://replit.com/@harryworlds/WebScrappingpart1?v=1)
-
-[![Website](https://img.shields.io/website?label=Click_here/harryworls_Github&style=for-the-badge&url=https://github.com/harryworlds)](https://github.com/harryworlds)
 
 ---
 
@@ -102,5 +100,8 @@ print(wd)
 ---
 
 Thansk for reading and hopefully, you enjyoed it.
+<br/>
+---
+[![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/thapahemant/)](https://www.linkedin.com/in/thapahemant/)
 
 [![Website](https://img.shields.io/website?label=Click_here/harryworls_Github&style=for-the-badge&url=https://github.com/harryworlds)](https://github.com/harryworlds)
