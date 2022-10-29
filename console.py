@@ -1,4 +1,4 @@
-//Image Search with Google
+#Image Search with Google
 
 from pip import __main__
 import sys
@@ -20,7 +20,7 @@ except ImportError:  # Python 3 change import scheme
 
 '''
 Console program to download images from Google or Bing.
-By: Rushil Srivastava
+By: Shrey Srivastava
 '''
 
 
